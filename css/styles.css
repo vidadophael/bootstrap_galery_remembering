@@ -67,3 +67,48 @@
     left: 25px;
     bottom: 25px;
 }
+
+
+/*GALERY*/
+#img2 {
+    background-image: url('../img/galery/g_2.jpg');
+}
+#img3 {
+    background-image: url('../img/galery/g_3.jpg');
+}
+#img4 {
+    background-image: url('../img/galery/g_4.jpg');
+}
+#img5 {
+    background-image: url('../img/galery/g_5.jpg');
+}
+#img6 {
+    background-image: url('../img/galery/g_6.jpg');
+}
+#img7 {
+    background-image: url('../img/galery/g_7.jpg');
+}
+#img8 {
+    background-image: url('../img/galery/g_8.jpg');
+}
+#img9 {
+    background-image: url('../img/galery/g_9.jpg');
+}
+#img10 {
+    background-image: url('../img/galery/g_10.jpg');
+}
+
+#galery-container h1 {
+    text-align: center;
+}
+
+#galery-container h1,
+#galery-container .col-md-6,
+#galery-container .col-12 {
+    margin-bottom: 50px;
+}
+
+.small-image-container {
+    height: 250px;
+    margin-bottom: 20px;
+}
