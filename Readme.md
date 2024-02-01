@@ -22,11 +22,11 @@ _"Learn a library to enrich my initial portfolio projects aimed at recording and
 ---
 # ⏰ GO!
 
-# The idea is to create an art gallery website...
+# 📌The idea is to create an art gallery website...
 ### ...using element spacing via Bootstrap and focusing mainly on responsiveness.
 
 ---
-# [Site:]() 
+# 💻 GALERIA ANGELA - 🔗 [visit](https://vidadophael.github.io/bootstrap_galery_remembering/) 
 
 ---
 * ### 💯 credits:
