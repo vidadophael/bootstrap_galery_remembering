@@ -50,3 +50,20 @@
 #navbar a:hover {
     color: #C1B696;
 }
+
+
+/*BANNER MAIN*/
+.main-image {
+    height: 400px;
+    background-image: url('../img/banner/g_1.jpg');
+    margin-bottom: 30px;
+    position: relative;
+}
+
+#main-image-info {
+    background-color: #FFFFFF;
+    padding: 25px;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}
