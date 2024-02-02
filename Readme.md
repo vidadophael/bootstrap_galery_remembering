@@ -1,5 +1,7 @@
 # 💻 GALERIA ANGELA - 🔗 [visit](https://vidadophael.github.io/bootstrap_galery_remembering/) 
 
+![project](./img/img_readme.svg)
+
 ---
 # 📌 Angela Project
 # The idea is to create an art gallery website...
