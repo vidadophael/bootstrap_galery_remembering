@@ -112,3 +112,32 @@
     height: 250px;
     margin-bottom: 20px;
 }
+
+
+/*FOOTER*/
+footer {
+    border-top: 1px solid #CCCCCC;
+    padding: 30px;
+    height: 250px;
+}
+
+footer i {
+    font-size: 20px;
+}
+
+#social-itens-container {
+    padding: 25px;
+}
+
+#social-itens-container div {
+    text-align: center;
+}
+
+footer p {
+    margin: 20px;
+    text-align: center;
+}
+
+a:hover i {
+    color: #C1B696;
+}
