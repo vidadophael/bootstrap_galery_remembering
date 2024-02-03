@@ -141,8 +141,3 @@ footer p {
 a:hover i {
     color: #C1B696;
 }
-
-.icon {
-    display: flex;
-    justify-content: center;
-}
